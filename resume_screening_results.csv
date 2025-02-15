@@ -1,0 +1,83 @@
+Candidate,Analysis
+data_resume.pdf,"{
+  ""candidate_name"": ""Nayab Irfan"",
+  ""key_skills"": [
+    ""Python"",
+    ""NLP"",
+    ""Machine Learning"",
+    ""Data Science"",
+    ""AI"",
+    ""Cybersecurity"",
+    ""Programming"",
+    ""HTML"",
+    ""CSS"",
+    ""SQL"",
+    ""Jupyter"",
+    ""Numpy"",
+    ""Pandas"",
+    ""Matplotlib"",
+    ""Scikit Learn"",
+    ""TensorFlow"",
+    ""Pytorch"",
+    ""Gradio"",
+    ""CV"",
+    ""Stable Diffusion"",
+    ""YOLO"",
+    ""Hugging Face"",
+    ""SQL Joins"",
+    ""CTEs"",
+    ""Advanced Microsoft Excel"",
+    ""Power BI"",
+    ""CUDA"",
+    ""APIs"",
+    ""RDBMS"",
+    ""Graphic Designing"",
+    ""Kali Linux"",
+    ""Metasploit"",
+    ""Bash Scripting"",
+    ""RAT (remote access trojans)"",
+    ""SETOOLKIT"",
+    ""Machine Learning"",
+    ""Deep Learning"",
+    ""Artificial Intelligence"",
+    ""Generative AI"",
+    ""Databases""
+  ],
+  ""years_of_experience"": 1,
+  ""education"": [
+    {
+      ""institution"": ""University of Central Punjab"",
+      ""degree"": ""Bachelors in Computer Science"",
+      ""start_year"": 2022,
+      ""end_year"": 2026,
+      ""cgpa"": 3.24
+    },
+    {
+      ""institution"": ""Atomcamp"",
+      ""degree"": ""Data Science and AI bootcamp"",
+      ""start_year"": 2024,
+      ""end_year"": 2025
+    },
+    {
+      ""institution"": ""University of Engineering and Technology"",
+      ""degree"": ""Machine Learning in Artificial intelligence"",
+      ""start_year"": 2022,
+      ""end_year"": 2022,
+      ""final_grade"": ""A""
+    },
+    {
+      ""institution"": ""Lahore College For Women University"",
+      ""degree"": ""FSC-Pre Engineering"",
+      ""start_year"": 2019,
+      ""end_year"": 2021,
+      ""final_grade"": ""A""
+    }
+  ],
+  ""suitability_score"": 8
+}
+
+Comments:
+- The candidate has strong experience in Python, NLP, and machine learning.
+- She has 1 year of experience in relevant roles.
+- The candidate is currently pursuing a Bachelors in Computer Science and a Data Science and AI bootcamp.
+- The suitability score is 8, as the candidate has strong technical skills but lacks experience in some of the required tools and frameworks."
