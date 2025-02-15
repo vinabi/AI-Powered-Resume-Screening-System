@@ -1,0 +1,15 @@
+gradio
+streamlit
+openai
+PyMuPDF
+nltk
+reportlab
+groq
+
+gradio==3.50.2
+streamlit==1.30.0
+openai==1.10.0
+PyMuPDF==1.23.5
+nltk==3.8.1
+reportlab==4.0.6
+groq==0.3.0
